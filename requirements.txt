@@ -1,0 +1,11 @@
+---
+
+## 2. محتوى ملف `requirements.txt` (تأكد أن كل المكتبات موجودة):
+
+```text
+streamlit
+joblib
+scikit-learn
+lightgbm
+numpy
+scipy
